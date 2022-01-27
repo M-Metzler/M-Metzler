@@ -21,7 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-metzler&layout=compact)](https://github.com/m-metzler)
 
 
-#### Контакты:
-
+### Контакты:
 📫 metsler.ml@yandex.ru  
 <img src="https://img.icons8.com/external-justicon-flat-justicon/18/000000/external-facebook-social-media-justicon-flat-justicon.png"/>  https://www.facebook.com/metsler.ml
